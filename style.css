@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(93, 223, 219);
+    background-color: rgba(0, 0, 0, 0.388);
+}
+
+body{
+
+    background-color: rgba(133, 122, 133, 0.322);
+}
+#bakerygirl{
+    position: relative;
+    left: 25px;
+}

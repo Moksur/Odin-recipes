@@ -1,6 +1,7 @@
 h1 {
     color: rgb(93, 223, 219);
     background-color: rgba(0, 0, 0, 0.388);
+    font-style: italic;
 }
 
 body {
@@ -10,4 +11,50 @@ body {
 #bakerygirl {
     position: relative;
     left: 25px;
+}
+
+.bio {
+    color: rgb(255, 162, 0);
+    font-style: oblique;
+    font-size: larger
+}
+
+#bio2 {
+    font-style: oblique;
+    color: rgb(250, 125, 0);
+    font-size: large
+}
+
+#recipeheading {
+    position: relative;
+    left: 25px;
+}
+
+.anime {
+    position: relative;
+    left: 250px;
+    bottom: 75px;
+}
+
+#animeheading {
+    position: relative;
+    left: 250px;
+    bottom: 117px;
+}
+
+#timebio {
+    font-weight: bold;
+font-size: large;
+font-style: oblique;
+color:#e7ad95;
+max-width: 600px;
+}
+
+#timebody {
+    background-color:#222038;
+    border: #222038;
+}
+
+#timeheading {
+    color: #e38ea1
 }

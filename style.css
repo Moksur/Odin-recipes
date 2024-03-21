@@ -44,17 +44,45 @@ body {
 
 #timebio {
     font-weight: bold;
-font-size: large;
-font-style: oblique;
-color:#e7ad95;
-max-width: 600px;
+    font-size: large;
+    font-style: oblique;
+    color:#e7ad95;
+    max-width: 600px;
 }
 
 #timebody {
     background-color:#222038;
-    border: #222038;
 }
 
 #timeheading {
     color: #e38ea1
 }
+
+#undeadbody {
+    background-color:#413c38;
+    font-weight: bold;
+    font-size: large;
+    font-style: oblique;
+    max-width: 600px;
+}
+
+#undeadheading {
+    color: #fcf9f4;
+}
+
+#undeadbio {
+    color: #efbc46;
+}
+
+#undeadwatchlink {
+    position: relative;
+    left: 1050px;
+    bottom: 100px;
+}
+
+#undeadvideo {
+    position: relative;
+    left: 750px;
+    bottom: 585px;
+}
+
